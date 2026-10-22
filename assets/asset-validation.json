@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "cell": [
+    320,
+    420
+  ],
+  "atlas": [
+    1280,
+    5460
+  ],
+  "rows": [
+    {
+      "source": "/workspace/generated_images/exec-21efbf7a-26d2-41b2-8a1c-6de86c4e727c.png",
+      "count": 4,
+      "scale": 0.5609065155807366,
+      "source_sizes": [
+        [
+          385,
+          705
+        ],
+        [
+          398,
+          704
+        ],
+        [
+          394,
+          703
+        ],
+        [
+          389,
+          706
+        ]
+      ]
+    },
+    {
+      "source": "/workspace/generated_images/exec-f5df5954-8cbf-4318-acb1-476e89c5f512.png",
+      "count": 4,
+      "scale": 0.5714285714285714,
+      "source_sizes": [
+        [
+          492,
+          691
+        ],
+        [
+          398,
+          693
+        ],
+        [
+          502,
+          691
+        ],
+        [
+          398,
+          693
+        ]
+      ]
+    },
+    {
+      "source": "/workspace/generated_images/exec-7768fca2-340d-44b9-be09-a495c39f3361.png",
+      "count": 3,
+      "scale": 0.5051020408163265,
+      "source_sizes": [
+        [
+          522,
+          784
+        ],
+        [
+          595,
+          662
+        ],
+        [
+          530,
+          579
+        ]
+      ]
+    },
+    {
+      "source": "/workspace/generated_images/exec-fb65b7da-132a-46b0-87e1-7e6b5c373640.png",
+      "count": 4,
+      "scale": 0.5561797752808989,
+      "source_sizes": [
+        [
+          385,
+          704
+        ],
+        [
+          384,
+          712
+        ],
+        [
+          384,
+          703
+        ],
+        [
+          370,
+          705
+        ]
+      ]
+    },
+    {
+      "source": "/workspace/generated_images/exec-791576c7-62b5-4104-8ac7-d90737184d40.png",
+      "count": 4,
+      "scale": 0.5553997194950911,
+      "source_sizes": [
+        [
+          468,
+          711
+        ],
+        [
+          479,
+          713
+        ],
+        [
+          480,
+          713
+        ],
+        [
+          455,
+          712
+        ]
+      ]
+    }
+  ],
+  "frame_count": 51,
+  "appended_actions": "new-action-validation.json"
+}

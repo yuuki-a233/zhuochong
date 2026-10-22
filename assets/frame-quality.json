@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "atlas": [
+    1280,
+    5460
+  ],
+  "cell": [
+    320,
+    420
+  ],
+  "frame_count": 51,
+  "rows": [
+    {
+      "name": "idle",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "walk",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "actions",
+      "frames": 3,
+      "bottoms": [
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "petting",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "eating",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        410
+      ]
+    },
+    {
+      "name": "stretch",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "yawn",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "hair",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "look",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "swing",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "think",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "clap",
+      "frames": 4,
+      "bottoms": [
+        411,
+        411,
+        411,
+        411
+      ]
+    },
+    {
+      "name": "hop",
+      "frames": 4,
+      "bottoms": [
+        411,
+        381,
+        363,
+        411
+      ]
+    }
+  ]
+}
